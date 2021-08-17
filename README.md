@@ -2,6 +2,9 @@
 
 # Abstract
 Many problems of recent interest in statistics and machine learning can be posed in the framework of convex optimization. Due to the explosion in size and complexity of modern datasets, ‘Big Data’ becomes increasingly necessary for data handling and neural networks become important to train large network models. This project experimented with an unconventional training method that uses alternating direction methods and Bregman iteration to train networks without gradient descent steps, on top of Apache Spark. The results are compared by the loss and accuracy plots of train, validation, and test model performances.
+
+**Keywords**: Neural Networks, ADMM, Apache Spark.
+
 **Apache Spark installation version 3.0**
 
 # Experimental Results
