@@ -23,13 +23,9 @@ from tensorflow.examples.tutorials.mnist import input_data
 """
 
 Title: Training Neural Networks  with ADMM on Apache Spark
-Course: Signal Processing for Big Data
-Professor's: Sergio Barbarossa and Paolo Di Lorenzo
-Student: Dastagiri Dudekula 1826239
-University: Sapienza University of Rome
-Dept: M.Sc. in Data Science
+Space: Research Data Science
 
-Project Keywords: ADMM, Neural networks (tensorflow), Apache Spark
+Keywords: ADMM, Neural networks (tensorflow), Apache Spark
 """
 
 class SPARK_ADMM(object):
